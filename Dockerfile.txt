@@ -1,0 +1,2 @@
+From jenkins 
+Copy helloworld.groovy /var/jekins_home/jobs/helloworld.groovy
