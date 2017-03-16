@@ -1,0 +1,5 @@
+1 pull the repository on your linux host 
+2 build the image using this command docker build -t <imagename> .  (dot is very important)
+3 run the container using this command docker run -it -d -p 8080:8080 --name <containerName> <imageName>
+4 login to the jenkins using browser 
+5 see the job and build to see the helloworld output 
